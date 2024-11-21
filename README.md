@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Gabriel Theodoro 👋
 
 Sou desenvolvedor Flutter apaixonado por criar aplicativos móveis de alta qualidade. Com experiência em Dart e Flutter, foco em criar interfaces de usuário intuitivas e funcionais para todos os dispositivos.
 
