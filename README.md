@@ -36,12 +36,12 @@ Painel para gestão do How App, web totalmente desenvolvido em Flutter, mudança
 
 ## 🧑‍💻 Experiência Profissional
 
-### Desenvolvedor Flutter - **[Bebidas Poty]** (2022 - 2024)
+### Desenvolvedor Flutter - **Bebidas Poty** (2022 - 2024)
 - Desenvolvimento de aplicativos móveis para iOS e Android com Flutter.
 - Implementação de integrações com APIs RESTful e Firebase.
 - Melhoria da experiência do usuário com animações e design responsivo.
 
-### Engenheiro Mobile - **Farmer App]** (2023 - 2024)
+### Engenheiro Mobile - **Farmer App** (2023 - 2024)
 - Arquitetura de projeto Flutter.
 - Tomada de decisão estratégicas em relação ao app.
 - Ponte entre equipe de produto e equipe de desenvolvimento.
