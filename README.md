@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Gabriel Theodoro</h1>
-<h3 align="center">Mobile Developer</h3>
+# Olá! Eu sou [Seu Nome] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabthe&label=Profile%20views&color=0e75b6&style=flat" alt="gabthe" /> </p>
+Sou desenvolvedor Flutter apaixonado por criar aplicativos móveis de alta qualidade. Com experiência em Dart e Flutter, foco em criar interfaces de usuário intuitivas e funcionais para todos os dispositivos.
 
-- 🌱 I’m currently learning **Java**
+🔭 Atualmente trabalhando em projetos Flutter, buscando otimizar performance e melhorar a experiência do usuário.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-theodoro-680b1a18a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-theodoro-680b1a18a/" height="30" width="40" /></a>
-</p>
+🌱 Buscando aprender mais sobre **Arquitetura de Aplicações Flutter** e **Design de Interface (UI/UX)**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+💬 Pergunte-me sobre **Flutter**, **Dart**, **Desenvolvimento Mobile** e **Testes**.
 
-</p>
+📫 Como me encontrar:
+- **LinkedIn**: [Gabriel Theodoro](https://www.linkedin.com/in/gabtheodoro/)
+- **Email**: [Email](mailto:gabthefer1@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabthe&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabthe" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabthe&show_icons=true&theme=dark&locale=en" alt="gabthe" /></p>
+## 🛠️ Tecnologias & Ferramentas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabthe&" alt="gabthe" /></p>
+- 💻 **Languages**: Dart, JavaScript, HTML, CSS
+- 🚀 **Frameworks**: Flutter, Firebase, Provider, Riverpod, Bloc
+- 🧰 **Tools**: Git, GitHub, VS Code, Android Studio, Xcode
+- 🧠 **Databases**: Firebase Firestore, SQLite, Realm
+- ⚙️ **CI/CD**: GitHub Actions, Codemagic, Firebase
+
+---
+
+## 💡 Projetos em Destaque
+
+### [How App](https://github.com/gabthe/howapp2)
+Aplicativo para encontrar eventos locais, com localização, data, venda de ingresso e interação com outros usuários.
+
+### [Painel web](https://github.com/gabthe/howapp-panel)
+Painel para gestão do How App, web totalmente desenvolvido em Flutter, mudanças realizadas aqui são refletidas em tempo real no aplicativo.
+
+---
+
+## 🧑‍💻 Experiência Profissional
+
+### Desenvolvedor Flutter - **[Bebidas Poty]** (2022 - 2024)
+- Desenvolvimento de aplicativos móveis para iOS e Android com Flutter.
+- Implementação de integrações com APIs RESTful e Firebase.
+- Melhoria da experiência do usuário com animações e design responsivo.
+
+### Engenheiro Mobile - **Farmer App]** (2023 - 2024)
+- Arquitetura de projeto Flutter.
+- Tomada de decisão estratégicas em relação ao app.
+- Ponte entre equipe de produto e equipe de desenvolvimento.
+
+---
+
+## 📊 GitHub Stats
+
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs)
+
+---
+
+## 📍 Localização
+
+🌍 Baseado em [Rio de Janeiro/Brasil]. Atualmente disponível para projetos remotos.
+
+---
+
+> "A programação é como magia, com ela conseguimos transformar ideias em realidade."
