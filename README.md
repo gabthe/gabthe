@@ -50,7 +50,7 @@ Painel para gestão do How App, web totalmente desenvolvido em Flutter, mudança
 
 ## 📊 GitHub Stats
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs)
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabthe&show_icons=true&hide_title=true&hide=prs)
 
 ---
 
