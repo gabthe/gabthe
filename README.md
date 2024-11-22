@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel Theodoro 👋
 
-📫 Como me encontrar:
+Como me encontrar:
 - **LinkedIn**: [Gabriel Theodoro](https://www.linkedin.com/in/gabtheodoro/)
 - **Email**: [Email](mailto:gabthefer1@gmail.com)
 
